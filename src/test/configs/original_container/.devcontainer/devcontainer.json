@@ -1,0 +1,7 @@
+{
+    "dockerFile": "Dockerfile",
+    "workspaceFolder": "/",
+    "containerEnv": {
+        "ROSCONSOLE_FORMAT": ""
+    }
+}
